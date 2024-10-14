@@ -1,0 +1,3 @@
+[submodule "components/bme280_esp32"]
+	path = components/bme280_esp32
+	url = git@github.com:jalius/bme280_esp32.git
