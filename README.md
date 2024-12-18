@@ -4,8 +4,8 @@ This is an ESP-IDF project showing example use of the [BME280 ESP32 API.](https:
 
 ## Installation
 1. Start by installing the [ESP-IDF development framework](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html)
-2. Clone this repository.
-3. Using the ESP-IDF tools, build and flash.
+2. Clone this repository. Use `git clone git@github.com:jalius/bme280_esp32_example.git --recurse-submodules`, which will bring in the submodule components.
+4. Using the ESP-IDF tools, build and flash.
 
 ## Build and Flash on ESP-IDF CLI:
 1. `cd bme280_esp32_example`
